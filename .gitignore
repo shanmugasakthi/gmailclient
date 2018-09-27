@@ -8,6 +8,8 @@
 .settings
 .springBeans
 .sts4-cache
+.gitignore
+dependency-reduced-pom.xml
 ### IntelliJ IDEA ###
 .idea
 *.iws
